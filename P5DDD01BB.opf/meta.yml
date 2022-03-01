@@ -1,0 +1,13 @@
+id: P5DDD01BB
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,14: Poṣadhasthāpanavastu'
+  language: bo
+  volumes:
+    c74383cf4c98466695fe618fb32a6bd9:
+      title: Poṣadhasthāpanavastu
+      base_file: Poṣadhasthāpanavastu.txt
+      work_id: W30E908FE
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:20:25.469624'
+last_modified_at: '2022-03-01T22:20:25.469631'
